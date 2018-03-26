@@ -1,0 +1,16 @@
+html {
+    height: 100%;
+}
+body {
+    height: 100%;
+    margin: 0px;
+    background-image: url(../background/bg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
